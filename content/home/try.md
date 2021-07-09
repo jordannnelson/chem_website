@@ -1,10 +1,10 @@
 ---
-title: Ready to learn?
-subtitle:
 widget: blank
+widget_id: hero-button
 weight: 50
+title: Explore my courses
+subtitle: null
 design:
-  columns: '1'
+  columns: "1"
 ---
-
-{{% cta cta_link="./course/" cta_text="Explore our courses!" %}}
+{{% cta cta_link="./course/" cta_text="Explore my courses!" %}}
