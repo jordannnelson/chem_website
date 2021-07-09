@@ -12,7 +12,7 @@ cta:
 widget_id: hero-description
 headless: true
 weight: 10
-title: Online Course Template
+title: Course websites
 cta_alt:
   ? url
   ? label
