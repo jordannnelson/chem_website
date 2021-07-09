@@ -1,63 +1,29 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Python Instructor
-
-# Organizations/Affiliations
+title: Jordan Nelson
+role: Lecturer
+bio: My goal for this website is to create a highly-accessible and
+  mobile-friendly source of data and resources for the chemistry courses I teach
+  and assist with at Boston University.
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:jordannn@bu.edu
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - name: Boston University
+    url: ""
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Materials Chemistry
+      institution: Northwestern University
+      year: 2019
+    - course: BSc in Chemistry
+      institution: University of San Francisco
+      year: 2010
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
-- Teachers
+  - Teachers
+highlight_name: false
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include teaching with technology to increase student engagement and active learning, magnetic spin resonance spectroscopy, photochemistry, molecular models for quantum computing, and computational modeling of chemical thermodynamics and kinetics.
