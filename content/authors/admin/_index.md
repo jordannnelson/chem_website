@@ -1,6 +1,7 @@
 ---
 title: Jordan Nelson
 role: Lecturer
+avatar_filename: avatar.jpg
 bio: My goal for this website is to create a highly-accessible and
   mobile-friendly source of data and resources for the chemistry courses I teach
   and assist with at Boston University.
